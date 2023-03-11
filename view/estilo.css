@@ -1,0 +1,18 @@
+body { 
+background-color:#000000
+background-repeat: no-repeat; 
+background-position: center center; 
+background-image: url(wid.png); 
+background-size:100%;
+background-attachment:fixed; 
+} 
+ 
+h1, legend, label, em {
+font-weight: bold;
+color: #FBFBEF;
+}
+
+h2 {
+color: #00FF40;
+}
+
